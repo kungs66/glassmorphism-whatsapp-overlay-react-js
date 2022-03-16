@@ -1,23 +1,21 @@
 import logo from './logo.svg';
-import './App.css';
+import ChatBtn from './components/ChatBtn';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+    <div className="w-full text text-slate-100 py-32">
+      <ChatBtn />
+      <div className='text-center mx-auto'>
+        <p className='text-2xl'>
+          Glassmorphism chat overlay with WhatsApp Api
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      </div>
+      <img className='w-2/3 items-center justify-center mx-auto' src={logo} alt="logo" />
+      <div className='text-center mx-2 lg:mx-auto'>
+        <p className='text-2xl'>
+          With <a className='decoration-slate-100 underline' href='https://reactjs.org/' >ReactApp</a> and <a className='decoration-slate-100 underline' href='https://tailwindcss.com/' >Tailwindcss</a>
+        </p>
+      </div>
     </div>
   );
 }
