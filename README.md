@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+ First Clone this Repository 
+### `git clone https://github.com/kungs66/glassmorphism-whatsapp-overlay-react-js.git`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ Getting Started with Create React App
 
-## Available Scripts
+### `npm install`
 
 In the project directory, you can run:
 
