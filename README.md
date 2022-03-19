@@ -42,9 +42,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## `Desktop Version`
 
-https://raw.githubusercontent.com/kungs66/raw/main/ss-desktop.png?token=GHSAT0AAAAAABSVLL5P5BKIGW3JN6UEBQSYYRVYF7Q
+![ss-desktop](https://user-images.githubusercontent.com/79618538/159119763-f0551aa5-ac11-49b9-a69c-c4fcfaf9526e.png)
 
 ## `Mobile Version`
 
-https://raw.githubusercontent.com/kungs66/raw/main/ss-mobile.png?token=GHSAT0AAAAAABSVLL5OP4A5LCGEKHVUARLYYRVYGLA
+![ss-mobile](https://user-images.githubusercontent.com/79618538/159119776-13eec6a3-3edb-4889-9586-32a837de39b7.png)
 
