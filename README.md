@@ -1,7 +1,7 @@
  First Clone this Repository 
 ### `git clone https://github.com/kungs66/glassmorphism-whatsapp-overlay-react-js.git`
 
- Getting Started with Create React App
+ Getting Started with:
 
 ### `npm install`
 
